@@ -22,9 +22,9 @@ Esta é uma API simples e intuitiva construída com [FastAPI](https://fastapi.ti
    ```
 4. Salve o código principal em um arquivo chamado `main.py`.
 5. Inicie o servidor local com o Uvicorn:
-```bash
-uvicorn main:app --reload
-```
+   ```bash
+   uvicorn main:app --reload
+   ```
 6. O terminal indicará que o servidor está rodando, geralmente no endereço: `http://127.0.0.1:8000`.
 
 ---
