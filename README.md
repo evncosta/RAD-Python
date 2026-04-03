@@ -17,5 +17,4 @@ RAD-Python/
 │   ├── main.py              # Código principal da API
 │   └── README.md            # Documentação específica do projeto
 │
-├── requirements.txt         # Lista de dependências de todo o repositório
 └── README.md                # Este arquivo
